@@ -2,5 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Carlos Rosales**, git lover
+**Carlos Rosales**, Git & Larry Plotter lover.
 
